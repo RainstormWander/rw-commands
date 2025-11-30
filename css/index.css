@@ -43,6 +43,8 @@ body p {
 
 .p-underline {
     text-decoration: underline;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
 }
 
 #container-commands {
