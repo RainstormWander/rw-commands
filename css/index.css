@@ -45,11 +45,7 @@ body p {
     text-decoration: underline;
 }
 
-#p-modlist {
-    margin-bottom: .75rem;
-}
-
-#container-modlist {
+#container-commands {
     margin-left: 2rem;
     margin-top: 1rem;
 }
